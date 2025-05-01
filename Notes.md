@@ -1,4 +1,4 @@
-# COCO JSON Dönüştürme ve Görselleştirme Süreci (MMYOLO için)
+# YOLO2COCO Dönüştürme ve Görselleştirme Süreci (MMYOLO)
 
 Bu döküman, bir YOLO veri kümesini COCO formatına dönüştürüp `browse_coco_json.py` aracıyla görselleştirmenin adımlarını açıklar.
 
@@ -72,3 +72,10 @@ python browse_coco_json.py --data-root C:/SH17-dataset/root --img-dir images --a
 - `show_coco_json.py` yerine `browse_coco_json.py` kullanılması önerilir çünkü MMYOLO içinde yerleşik olarak bu araç yönlendirilmiştir.
 
 ---
+
+![Figure_13](https://github.com/user-attachments/assets/be29dc5b-a247-4abe-bef7-842586a0728f)
+
+![Figure_11](https://github.com/user-attachments/assets/161bc1be-d81e-43ee-a3d8-b3bef1d8509e)
+
+
+![Figure_9](https://github.com/user-attachments/assets/0966dbb5-3fef-4a9f-a56d-aeecc16054ba)
